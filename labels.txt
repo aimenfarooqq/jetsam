@@ -1,0 +1,5 @@
+0 Fishing net
+1 Can
+2 Plastic Wrapper
+3 Plastic Bottle
+4 Fish
